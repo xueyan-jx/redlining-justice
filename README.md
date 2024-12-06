@@ -24,7 +24,8 @@ Thus, there are mainly two objectives in this project:
 
 (1) Data (see https://github.com/xueyan-jx/redlining-justice/blob/main/Data)
 (2) Code in .qmd file
-(3) .html file
+(3) Project website (see "About")
+(4) Other project files
 
 # Reference
 Ellis-Soto, D., Chapman, M., & Locke, D. H. (2023). Historical redlining is associated with increasing geographical disparities in bird biodiversity sampling in the United States. Nature Human Behaviour, 7(11):1869-1877. doi: 10.1038/s41562-023-.
