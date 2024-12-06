@@ -26,31 +26,20 @@ Thus, there are mainly two objectives in this project:
 (2) Code in scripts.R (see folder "Code and data")
 (3) Project website (see "About")
 (4) Other project files
-
+```
 ├── Code and data
-
 │   ├── Data
-
 │   └── scripts.R
-
 ├── redlining-justice_files
-
 │   ├── figure-html
-
 │   └── libs
-
 ├── .gitignore
-
 ├── LICENSE
-
 ├── README.md
-
 ├── redlining-justice.Rproj
-
 ├── redlining-justice.html
-
 └── redlining-justice.qmd
-
+```
 # Reference
 Ellis-Soto, D., Chapman, M., & Locke, D. H. (2023). Historical redlining is associated with increasing geographical disparities in bird biodiversity sampling in the United States. Nature Human Behaviour, 7(11):1869-1877. doi: 10.1038/s41562-023-.
 
