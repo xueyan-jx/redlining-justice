@@ -22,8 +22,8 @@ Thus, there are mainly two objectives in this project:
 
 # Main content of the repository
 
-(1) Data (see https://github.com/xueyan-jx/redlining-justice/blob/main/Data)
-(2) Code in scripts.R
+(1) Data (see folder "Code and data")
+(2) Code in scripts.R (see folder "Code and data")
 (3) Project website (see "About")
 (4) Other project files
 
