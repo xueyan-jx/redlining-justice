@@ -28,16 +28,27 @@ Thus, there are mainly two objectives in this project:
 (4) Other project files
 
 ├── Code and data
+
 │   ├── Data
+
 │   └── scripts.R
+
 ├── redlining-justice_files
+
 │   ├── figure-html
+
 │   └── libs
+
 ├── .gitignore
+
 ├── LICENSE
+
 ├── README.md
+
 ├── redlining-justice.Rproj
+
 ├── redlining-justice.html
+
 └── redlining-justice.qmd
 
 # Reference
