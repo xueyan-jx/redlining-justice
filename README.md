@@ -20,10 +20,10 @@ Thus, there are mainly two objectives in this project:
 (6) Spatial statistics (vector data)
 (7) Table generate
 
-# Content of the repository
+# Main content of the repository
 
 (1) Data (see https://github.com/xueyan-jx/redlining-justice/blob/main/Data)
-(2) Code in .qmd file
+(2) Code in scripts.R
 (3) Project website (see "About")
 (4) Other project files
 
