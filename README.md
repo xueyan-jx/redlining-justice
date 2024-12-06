@@ -1,5 +1,5 @@
 # Author
-Xue
+Xue Yan
 
 # Project Description
 
@@ -25,6 +25,10 @@ Thus, there are mainly two objectives in this project:
 (1) Data (see )
 (2) Code in .qmd file
 (3) .html file
+
+# Reference
+Ellis-Soto, D., Chapman, M., & Locke, D. H. (2023). Historical redlining is associated with increasing geographical disparities in bird biodiversity sampling in the United States. Nature Human Behaviour, 7(11):1869-1877. doi: 10.1038/s41562-023-.
+Gee GC. A multilevel analysis of the relationship between institutional and individual racial discrimination and health status. Am J Public Health. 2008 Sep;98(9 Suppl):S48-56. doi: 10.2105/ajph.98.supplement_1.s48. PMID: 18687618; PMCID: PMC2518571.
 
 # Acknowledgements
 Course EDS223-Geospatial Analysis & Remote Sensing at UCSB
