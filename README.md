@@ -22,7 +22,7 @@ Thus, there are mainly two objectives in this project:
 
 # Content of the repository
 
-(1) Data (see )
+(1) Data (see https://github.com/xueyan-jx/redlining-justice/blob/main/Data)
 (2) Code in .qmd file
 (3) .html file
 
