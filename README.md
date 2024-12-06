@@ -17,7 +17,7 @@ Thus, there are mainly two objectives in this project:
 (3) Code test
 (4) Visualization with "tmap" and "ggplot"
 (5) Spatial join with "st_join"
-(6) Spatial statistics
+(6) Spatial statistics (vector data)
 (7) Table generate
 
 # Content of the repository
