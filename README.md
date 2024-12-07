@@ -11,6 +11,9 @@ Thus, there are mainly two objectives in this project:
 (1) Explore historical redlining in Los Angeles and its legacy on present-day environmental justice;
 (2) Explore the legacy of historical redlining in Los Angeles on the collection of bird observations.
 
+![image](https://github.com/user-attachments/assets/9b127158-1e74-4cd3-9cf3-27d2e4c895fc)
+Historical Redlining Neighborhoods in LA
+
 ## Skills used in this project
 
 (1) Custom warning and error message 
