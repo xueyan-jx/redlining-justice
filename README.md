@@ -3,19 +3,16 @@
 Xue Yan
 
 ## Project Description
-
 The United States has a long history of racial segregation which is still visible. The "redlining" of neighborhoods has had wide consequences for community wealth and health (Gee, 2008).
 Redlining has not only affected the environments communities are exposed to but also shaped our observations of biodiversity (Ellis-Soto et al., 2023).
 
 Thus, there are mainly two objectives in this project: 
 (1) Explore historical redlining in Los Angeles and its legacy on present-day environmental justice;
 (2) Explore the legacy of historical redlining in Los Angeles on the collection of bird observations.
-
+Historical Redlining Neighborhoods in LA:
 ![image](https://github.com/user-attachments/assets/9b127158-1e74-4cd3-9cf3-27d2e4c895fc)
-Historical Redlining Neighborhoods in LA
 
 ## Skills used in this project
-
 (1) Custom warning and error message 
 (2) Coordinate reference system transformation
 (3) Code test
@@ -25,7 +22,6 @@ Historical Redlining Neighborhoods in LA
 (7) Table generate
 
 ## Main content of the repository
-
 (1) Data (see folder "Code and data")
 (2) Code in scripts.R (see folder "Code and data")
 (3) Project website (see "About")
